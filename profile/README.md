@@ -1,12 +1,23 @@
-## Hi there 👋
+# Kur'ancılar
 
-<!--
+<p><a href="https://www.instagram.com/kur.ancilar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-**Here are some ideas to get you started:**
+## 👋 Aleyküm Selam
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Adına binâen Ehl-i Sünnet'in tayin ettiği hudutlara müstenit bir Kur'an-ı Kerîm okuma, dinleme ve tartışma deneyimi sunmayı amaçlayan Kur'ancılar platformunun GitHub sayfasına hoş geldiniz.
+
+## 🧑‍🦱Ben Kimim?
+
+Ben Yasir, mezkûr web sitesinin sahibi ve geliştiricisi olan nâçiz lise talebesi. Hem meşgalelerim arasında dinî ebhas üzerine tefekkür etmek bulunduğundan hem de Kur'an-ı Kerîm'i tilâvet etmek ibâdet olduğundan mütevellit Kur'an-ı Kerîm'e yolum çok defa düşmekteydi. Ben de bu ihtiyacımı gidermek maksatlı şuan bulunduğunuz web sitesini geliştirmeye başladım. Elhamdülillah iki gün gibi bir sürede kullanılabilir hâle getirdim. Bir süredir de geliştirmekte, hemen her Cuma güncellemeler getirmekteyim.
+
+## ⚠️ Önemli Nokta
+
+Dikkatinizi çekerim ki murâd-ı ilâhîyi tamamıyla kuşatmak nâçiz insanoğlu için muhaldir. Bunun aklî delili kelâmullahın kadîm lâkin insanoğlunun hâdis olmasıdır. Öyleyse bir kimseye murâd-ı ilâhînin mutlak kâşifi nazarıyla bakmak hatalıdır. Bundan ötürü verdiğim mealleri o âyetin mutlak mânâsı olarak kabul etmek gibi bir hataya düşerek beni de günaha sokmayınız.
+
+## ✍️ Mealler Hakkında
+
+Mealleri ben seçerek yüklemekteyim. Ehl-i Sünnet'e uygun olduğu kanaatinde bulunduğum mealleri seçiyorum, diğer mealleri isteyen arkadaşlar başka web sitelerine ve uygulamalara müracaat edebilir veyahut malum meallerin matbû nüshalarını edinebilirler. Mealleri [buradan](https://github.com/alialparslan/Kuran-Meali-Ebook-Olusturucu) ve Arapça aslını [buradan](https://github.com/subaanqasim/quran-to-obsidian) aldım. Allah iki sayfanın sahibinden de razı olsun. Meal önermek isteyenler iletişime geçebilirler.
+
+## ❓ Elmalılı Nerede?
+
+Elmalılı Hamdi Yazır Efendi'nin mealini tefsirinden ayrı tutmak istemediğim için kendisinin tefsirinin orijinal metnini inşallah ekleyeceğim.
