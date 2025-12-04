@@ -1,3 +1,5 @@
+! [](/ss1.png) 
+
 # Kur'ancılar
 
 <p><a href="https://www.instagram.com/kur.ancilar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
