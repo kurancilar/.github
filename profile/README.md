@@ -1,4 +1,4 @@
-![](/ss1.jpg) 
+![](../ss1.jpg) 
 
 # Kur'ancılar
 
