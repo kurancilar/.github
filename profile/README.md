@@ -1,4 +1,4 @@
-![](../ss1.jpg) 
+![](https://github.com/kurancilar/.github/blob/main/ss1.jpg) 
 
 # Kur'ancılar
 
