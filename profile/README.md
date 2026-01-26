@@ -2,9 +2,8 @@
 
 # Kur'ancılar
 
-<p><a href="https://www.instagram.com/kur.ancilar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-
-<p><a href="https://github.com/kurancilar/.github/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/README-%23E4405F.svg?&style=flat-square&logo=github&logoColor=white" alt="README">Raporlar Dizini</a> </p>
+<p><a href="https://www.instagram.com/kur.ancilar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://github.com/kurancilar/.github/blob/main/README.md" target="_blank">Raporlar Dizini</a> </p>
 
 ## 👋 Aleyküm Selam
 
