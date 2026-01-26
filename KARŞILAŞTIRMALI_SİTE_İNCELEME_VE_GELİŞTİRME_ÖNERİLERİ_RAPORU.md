@@ -6,7 +6,7 @@
 - https://quran.com  
 - https://kuran.diyanet.gov.tr  
 
-**Rapor Tarihi:** Ocak 2026  
+**Rapor Tarihi:** 26 Ocak 2026  
 **Rapor Türü:** Resmî teknik ve stratejik değerlendirme raporu  
 
 ---
