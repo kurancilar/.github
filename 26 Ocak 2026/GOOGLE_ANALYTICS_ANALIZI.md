@@ -1,5 +1,5 @@
 # Kur’ancılar Platformu  
-## Google Analytics Analizi, KPI’lar ve GA4 Event & Conversion Stratejisi
+## Google Analytics Analizi, KPI’lar ve GA4 Event & Conversion Stratejisi Raporu
 
 **Platform:** kuran.yasireymen.com  
 **Rapor Türü:** Stratejik Analiz & Kamuoyu Bilgilendirme  
