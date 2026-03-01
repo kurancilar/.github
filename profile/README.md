@@ -20,7 +20,3 @@ Dikkatinizi çekerim ki murâd-ı ilâhîyi tamamıyla kuşatmak nâçiz insano�
 ## ✍️ Mealler Hakkında
 
 Mealleri ben seçerek yüklemekteyim. Ehl-i Sünnet'e uygun olduğu kanaatinde bulunduğum mealleri seçiyorum, diğer mealleri isteyen arkadaşlar başka web sitelerine ve uygulamalara müracaat edebilir veyahut malum meallerin matbû nüshalarını edinebilirler. Mealleri [buradan](https://github.com/alialparslan/Kuran-Meali-Ebook-Olusturucu) ve Arapça aslını [buradan](https://github.com/subaanqasim/quran-to-obsidian) aldım. Allah iki sayfanın sahibinden de razı olsun. Meal önermek isteyenler iletişime geçebilirler.
-
-## ❓ Elmalılı Nerede?
-
-Elmalılı Hamdi Yazır Efendi'nin mealini tefsirinden ayrı tutmak istemediğim için kendisinin tefsirinin orijinal metnini inşallah ekleyeceğim.
